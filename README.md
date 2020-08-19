@@ -1,6 +1,6 @@
 <div align=center>
   
-![github-stats](https://github-readme-stats.vercel.app/api?username=ywjeong-sium-io&show_icons=true)
+![github-stats](https://github-readme-stats.vercel.app/api?username=ywjeong-firecop365&show_icons=true)
 
 </div>
 
